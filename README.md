@@ -184,3 +184,11 @@ We welcome suggestions for new features. Please create a new issue in the reposi
 ---
 
 Thank you for using Calibre-Web! We hope you enjoy managing your eBook library with our tool.
+
+![image](https://github.com/user-attachments/assets/bdf20902-3a67-4ee9-8070-f5d90fee9a43)
+![image](https://github.com/user-attachments/assets/b9b45461-de8f-4285-86cd-350e8fddef82)
+![image](https://github.com/user-attachments/assets/63080428-990d-401c-afc2-774dc895fba8)
+![image](https://github.com/user-attachments/assets/f6e24996-d0b0-423a-83d8-dc8275184b46)
+
+
+
