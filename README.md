@@ -189,6 +189,10 @@ Thank you for using Calibre-Web! We hope you enjoy managing your eBook library w
 ![image](https://github.com/user-attachments/assets/b9b45461-de8f-4285-86cd-350e8fddef82)
 ![image](https://github.com/user-attachments/assets/63080428-990d-401c-afc2-774dc895fba8)
 ![image](https://github.com/user-attachments/assets/f6e24996-d0b0-423a-83d8-dc8275184b46)
+![image](https://github.com/user-attachments/assets/529012b4-730f-45c7-8c45-82eec6744e20)
+![image](https://github.com/user-attachments/assets/3b158986-f3a8-4f9c-87d1-6e64843698ae)
+
+![image](https://github.com/user-attachments/assets/5016c3bb-e7d1-469a-9f1d-a51bc4a12a08)
 
 
 
